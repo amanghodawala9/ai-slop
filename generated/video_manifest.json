@@ -1,0 +1,92 @@
+{
+  "graph": {
+    "A": [
+      "B",
+      "C",
+      "E",
+      "F",
+      "H",
+      "I"
+    ],
+    "B": [
+      "A",
+      "D",
+      "E",
+      "G",
+      "I"
+    ],
+    "C": [
+      "A",
+      "D",
+      "H"
+    ],
+    "D": [
+      "B",
+      "C",
+      "J"
+    ],
+    "E": [
+      "A",
+      "B",
+      "G"
+    ],
+    "F": [
+      "A",
+      "G"
+    ],
+    "G": [
+      "B",
+      "E",
+      "F",
+      "J"
+    ],
+    "H": [
+      "A",
+      "C",
+      "J"
+    ],
+    "I": [
+      "A",
+      "B"
+    ],
+    "J": [
+      "D",
+      "G",
+      "H"
+    ]
+  },
+  "start_node": "A",
+  "seed": 1789223315,
+  "nodes": 10,
+  "edges": 17,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "step_duration_seconds": 1.2,
+  "preset": "1080p",
+  "generated_videos": [
+    {
+      "algorithm": "bfs",
+      "filename": "bfs_traversal.mp4",
+      "title": "Breadth-First Search (BFS) Animation",
+      "data_structure": "FIFO Queue",
+      "resolution": "1920x1080",
+      "step_duration": 1.2
+    },
+    {
+      "algorithm": "dfs",
+      "filename": "dfs_traversal.mp4",
+      "title": "Depth-First Search (DFS) Animation",
+      "data_structure": "LIFO Stack",
+      "resolution": "1920x1080",
+      "step_duration": 1.2
+    },
+    {
+      "algorithm": "comparison",
+      "filename": "bfs_dfs_comparison.mp4",
+      "title": "Comparative Traversal: BFS vs DFS",
+      "data_structure": "Queue vs Stack",
+      "resolution": "1920x1080",
+      "step_duration": 1.2
+    }
+  ]
+}
