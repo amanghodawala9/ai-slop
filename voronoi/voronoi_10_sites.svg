@@ -1,36 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2400" viewBox="0 0 3840 2400" role="img" aria-labelledby="title description">
   <title id="title">Voronoi diagram with 10 sites</title>
-  <desc id="description">A high-resolution 3840x2400 clipped Voronoi diagram with 10 sites. Seed: 1789478374.</desc>
+  <desc id="description">A high-resolution 3840x2400 clipped Voronoi diagram with 10 sites. Seed: 1789502149.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#E0F2FE"/></linearGradient>
     <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%"><feDropShadow dx="0" dy="15" stdDeviation="22" flood-color="#0F172A" flood-opacity=".12"/></filter>
   </defs>
   <rect width="3840" height="2400" fill="url(#background)"/>
   <rect x="120" y="120" width="3600" height="2160" rx="63" fill="#FFFFFF" filter="url(#shadow)"/>
-  <g font-family="Arial, sans-serif"><text x="227" y="296" font-size="101" font-weight="700" fill="#0F172A">Voronoi Diagram</text><text x="227" y="397" font-size="56" fill="#475569">10 sites · generated with seed 1789478374 · Ultra HD (3840x2400)</text></g>
+  <g font-family="Arial, sans-serif"><text x="227" y="296" font-size="101" font-weight="700" fill="#0F172A">Voronoi Diagram</text><text x="227" y="397" font-size="56" fill="#475569">10 sites · generated with seed 1789502149 · Ultra HD (3840x2400)</text></g>
   <g stroke="#FFFFFF" stroke-width="7" stroke-linejoin="round">
-    <polygon points="2242.0,1094.4 1865.3,1183.9 1849.6,505.0 2675.7,505.0" fill="#38BDF8" fill-opacity="0.65" />
-    <polygon points="697.7,1371.2 844.4,667.0 1847.0,1205.3 1676.5,1914.5" fill="#A78BFA" fill-opacity="0.65" />
-    <polygon points="2728.3,1370.5 3050.5,1299.0 2956.1,2053.0 2281.6,2053.0" fill="#F472B6" fill-opacity="0.65" />
-    <polygon points="3103.1,1259.1 3050.5,1299.0 2728.3,1370.5 2242.0,1094.4 2675.7,505.0 3015.9,505.0" fill="#FB923C" fill-opacity="0.65" />
-    <polygon points="1676.5,1914.5 1847.0,1205.3 1865.3,1183.9 2242.0,1094.4 2728.3,1370.5 2281.6,2053.0 1719.6,2053.0" fill="#FACC15" fill-opacity="0.65" />
-    <polygon points="1847.0,1205.3 844.4,667.0 810.4,505.0 1849.6,505.0 1865.3,1183.9" fill="#4ADE80" fill-opacity="0.65" />
-    <polygon points="3103.1,1259.1 3015.9,505.0 3720.0,505.0 3720.0,1480.8" fill="#2DD4BF" fill-opacity="0.65" />
-    <polygon points="120.0,1726.7 120.0,505.0 810.4,505.0 844.4,667.0 697.7,1371.2" fill="#60A5FA" fill-opacity="0.65" />
-    <polygon points="120.0,1726.7 697.7,1371.2 1676.5,1914.5 1719.6,2053.0 120.0,2053.0" fill="#E879F9" fill-opacity="0.65" />
-    <polygon points="3050.5,1299.0 3103.1,1259.1 3720.0,1480.8 3720.0,2053.0 2956.1,2053.0" fill="#34D399" fill-opacity="0.65" />
+    <polygon points="2898.1,1525.9 3720.0,1261.7 3720.0,2053.0 2597.8,2053.0" fill="#38BDF8" fill-opacity="0.65" />
+    <polygon points="2509.8,1122.8 2082.6,1671.4 1463.3,825.0 1560.9,505.0 1988.4,505.0" fill="#A78BFA" fill-opacity="0.65" />
+    <polygon points="2538.3,1126.6 3441.9,505.0 3720.0,505.0 3720.0,1261.7 2898.1,1525.9" fill="#F472B6" fill-opacity="0.65" />
+    <polygon points="120.0,1409.4 847.4,1460.3 747.2,2053.0 120.0,2053.0" fill="#FB923C" fill-opacity="0.65" />
+    <polygon points="1022.5,1300.1 1463.3,825.0 2082.6,1671.4 2120.8,2053.0 1820.6,2053.0" fill="#FACC15" fill-opacity="0.65" />
+    <polygon points="2082.6,1671.4 2509.8,1122.8 2538.3,1126.6 2898.1,1525.9 2597.8,2053.0 2120.8,2053.0" fill="#4ADE80" fill-opacity="0.65" />
+    <polygon points="910.9,1364.6 847.4,1460.3 120.0,1409.4 120.0,590.7" fill="#2DD4BF" fill-opacity="0.65" />
+    <polygon points="2538.3,1126.6 2509.8,1122.8 1988.4,505.0 3441.9,505.0" fill="#60A5FA" fill-opacity="0.65" />
+    <polygon points="847.4,1460.3 910.9,1364.6 1022.5,1300.1 1820.6,2053.0 747.2,2053.0" fill="#E879F9" fill-opacity="0.65" />
+    <polygon points="1022.5,1300.1 910.9,1364.6 120.0,590.7 120.0,505.0 1560.9,505.0 1463.3,825.0" fill="#34D399" fill-opacity="0.65" />
   </g>
   <g>
-    <circle cx="2196.9" cy="704.8" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
-    <circle cx="1257.9" cy="1193.7" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
-    <circle cx="2784.4" cy="1729.3" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
-    <circle cx="2627.3" cy="1021.6" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
-    <circle cx="2377.0" cy="1462.7" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
-    <circle cx="1511.9" cy="720.7" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
-    <circle cx="3512.1" cy="919.2" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
-    <circle cx="255.0" cy="984.7" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
-    <circle cx="843.3" cy="1940.5" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
-    <circle cx="3202.3" cy="1781.6" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
+    <circle cx="3112.0" cy="1818.9" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
+    <circle cx="2145.9" cy="1186.7" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
+    <circle cx="2901.2" cy="1163.1" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
+    <circle cx="249.7" cy="1677.2" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
+    <circle cx="1601.5" cy="1585.0" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
+    <circle cx="2537.0" cy="1491.3" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
+    <circle cx="285.8" cy="1162.3" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
+    <circle cx="2633.9" cy="774.7" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
+    <circle cx="1340.6" cy="1861.6" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
+    <circle cx="695.1" cy="744.0" r="24" fill="#0F172A" stroke="#FFFFFF" stroke-width="7" />
   </g>
   <g font-family="Arial, sans-serif" font-size="47" fill="#64748B"><text x="227" y="2205">Each region contains all points closest to its dark site marker.</text><text x="3083" y="2205">sites: 10</text></g>
 </svg>
