@@ -21,25 +21,23 @@ graph traversal {
   I [fillcolor="#F8FAFC", color="#94A3B8", fontcolor="#334155"];
   J [fillcolor="#F8FAFC", color="#94A3B8", fontcolor="#334155"];
   A -- B;
-  A -- C;
   A -- D;
-  A -- G;
+  A -- E;
+  A -- I;
   B -- C;
-  B -- E;
-  B -- H;
+  B -- D;
+  B -- G;
   B -- I;
-  B -- J;
-  C -- E;
-  C -- F;
-  C -- J;
-  D -- E;
+  C -- D;
+  C -- I;
   D -- G;
+  D -- H;
   E -- F;
-  E -- H;
+  E -- G;
   F -- G;
-  F -- J;
+  F -- H;
   G -- H;
-  G -- J;
+  H -- J;
   status [shape=plain, fixedsize=false, width=0, height=0, margin=0, label=<
     <TABLE BORDER="0" CELLBORDER="0" CELLPADDING="7" BGCOLOR="#F1F5F9">
       <TR><TD ALIGN="LEFT"><B>Queue:</B> (empty)</TD></TR>
