@@ -1,8 +1,8 @@
 {
   "topic": "RSA Key Generation and Foundational Number Theory",
-  "timestamp": "2026-10-05T18:03:12Z",
+  "timestamp": "2026-10-06T00:01:30Z",
   "total_scenes": 5,
-  "total_render_time_sec": 75.9,
+  "total_render_time_sec": 57.36,
   "quality": "m",
   "scenes": [
     {
@@ -12,7 +12,7 @@
       "file_path": "/home/runner/work/_temp/rsa-animations/FermatsLittleTheoremScene.mp4",
       "size_bytes": 856342,
       "size_mb": 0.82,
-      "render_time_sec": 14.51
+      "render_time_sec": 10.46
     },
     {
       "scene_name": "BezoutsIdentityScene",
@@ -21,7 +21,7 @@
       "file_path": "/home/runner/work/_temp/rsa-animations/BezoutsIdentityScene.mp4",
       "size_bytes": 971314,
       "size_mb": 0.93,
-      "render_time_sec": 17.66
+      "render_time_sec": 13.09
     },
     {
       "scene_name": "EulersTheoremScene",
@@ -30,7 +30,7 @@
       "file_path": "/home/runner/work/_temp/rsa-animations/EulersTheoremScene.mp4",
       "size_bytes": 740808,
       "size_mb": 0.71,
-      "render_time_sec": 11.89
+      "render_time_sec": 10.05
     },
     {
       "scene_name": "ModularInverseScene",
@@ -39,7 +39,7 @@
       "file_path": "/home/runner/work/_temp/rsa-animations/ModularInverseScene.mp4",
       "size_bytes": 773732,
       "size_mb": 0.74,
-      "render_time_sec": 11.97
+      "render_time_sec": 9.01
     },
     {
       "scene_name": "RSAKeyGenerationScene",
@@ -48,7 +48,7 @@
       "file_path": "/home/runner/work/_temp/rsa-animations/RSAKeyGenerationScene.mp4",
       "size_bytes": 1008542,
       "size_mb": 0.96,
-      "render_time_sec": 19.86
+      "render_time_sec": 14.75
     }
   ]
 }
