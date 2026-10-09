@@ -1,8 +1,8 @@
 {
   "topic": "RSA Key Generation and Foundational Number Theory",
-  "timestamp": "2026-10-09T11:49:38Z",
+  "timestamp": "2026-10-09T18:06:46Z",
   "total_scenes": 5,
-  "total_render_time_sec": 109.03,
+  "total_render_time_sec": 80.91,
   "quality": "m",
   "scenes": [
     {
@@ -10,9 +10,9 @@
       "description": "Fermat's Little Theorem (Residue Permutation & Cyclic Powers)",
       "file_name": "FermatsLittleTheoremScene.mp4",
       "file_path": "/home/runner/work/_temp/rsa-animations/FermatsLittleTheoremScene.mp4",
-      "size_bytes": 856366,
+      "size_bytes": 856342,
       "size_mb": 0.82,
-      "render_time_sec": 22.01
+      "render_time_sec": 15.58
     },
     {
       "scene_name": "BezoutsIdentityScene",
@@ -21,7 +21,7 @@
       "file_path": "/home/runner/work/_temp/rsa-animations/BezoutsIdentityScene.mp4",
       "size_bytes": 971314,
       "size_mb": 0.93,
-      "render_time_sec": 25.07
+      "render_time_sec": 18.91
     },
     {
       "scene_name": "EulersTheoremScene",
@@ -30,7 +30,7 @@
       "file_path": "/home/runner/work/_temp/rsa-animations/EulersTheoremScene.mp4",
       "size_bytes": 740808,
       "size_mb": 0.71,
-      "render_time_sec": 17.22
+      "render_time_sec": 12.8
     },
     {
       "scene_name": "ModularInverseScene",
@@ -39,7 +39,7 @@
       "file_path": "/home/runner/work/_temp/rsa-animations/ModularInverseScene.mp4",
       "size_bytes": 773732,
       "size_mb": 0.74,
-      "render_time_sec": 17.3
+      "render_time_sec": 12.69
     },
     {
       "scene_name": "RSAKeyGenerationScene",
@@ -48,7 +48,7 @@
       "file_path": "/home/runner/work/_temp/rsa-animations/RSAKeyGenerationScene.mp4",
       "size_bytes": 1008542,
       "size_mb": 0.96,
-      "render_time_sec": 27.41
+      "render_time_sec": 20.91
     }
   ]
 }
