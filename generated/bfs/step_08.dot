@@ -23,29 +23,31 @@ graph traversal {
   A -- B [color="#7C3AED", penwidth=3.8];
   A -- C [color="#7C3AED", penwidth=3.8];
   A -- D [color="#7C3AED", penwidth=3.8];
-  A -- E [color="#7C3AED", penwidth=3.8];
   A -- F [color="#7C3AED", penwidth=3.8];
-  A -- G [color="#7C3AED", penwidth=3.8];
-  A -- H [color="#7C3AED", penwidth=3.8];
-  A -- I [color="#7C3AED", penwidth=3.8];
+  A -- J [color="#7C3AED", penwidth=3.8];
   B -- D;
+  B -- E [color="#7C3AED", penwidth=3.8];
   B -- F;
-  B -- J [color="#7C3AED", penwidth=3.8];
-  C -- D;
+  B -- H [color="#7C3AED", penwidth=3.8];
   C -- E;
   C -- F;
-  C -- H;
-  C -- I;
-  C -- J;
-  D -- E;
+  C -- G [color="#7C3AED", penwidth=3.8];
+  C -- I [color="#7C3AED", penwidth=3.8];
+  D -- F;
   D -- G;
-  E -- J;
+  D -- H;
+  E -- G;
+  F -- G;
   F -- H;
   F -- I;
   F -- J;
+  G -- H;
+  G -- I;
+  G -- J;
+  H -- I;
   status [shape=plain, fixedsize=false, width=0, height=0, margin=0, label=<
     <TABLE BORDER="0" CELLBORDER="0" CELLPADDING="7" BGCOLOR="#F1F5F9">
-      <TR><TD ALIGN="LEFT"><B>Queue:</B> E  →  F  →  G  →  H  →  I  →  J</TD></TR>
+      <TR><TD ALIGN="LEFT"><B>Queue:</B> F  →  J  →  E  →  H  →  G  →  I</TD></TR>
       <TR><TD ALIGN="LEFT"><B>Visited:</B> A, B, C</TD></TR>
     </TABLE>
   >];
